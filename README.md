@@ -13,14 +13,17 @@ VS2015社区版
 
 
 ### 代码说明
-PythonCode文件夹下的是处理[KITTI数据集](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)的数据，需要使用该数据集官网提供的一个python第三方库，
+PythonCode文件夹下的是处理[KITTI数据集](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)的数据，需要使用该数据集官网提供的一个python第三方库
 
 include文件夹为包含的头文件
+
 src文件夹为源代码文件
 
 
 ### 运行说明
 
 CMakeList文件已提供
+
+
 直接cmake下生成后即可编译运行
 
